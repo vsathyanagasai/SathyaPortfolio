@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SathyaPortfolio/static/css/main.16e4af0e.css",
+    "main.js": "/SathyaPortfolio/static/js/main.f0f8b4c4.js",
+    "static/media/foodmuch.png": "/SathyaPortfolio/static/media/foodmuch.a0a823017c3743e005f7.png",
+    "static/media/MatchGame.png": "/SathyaPortfolio/static/media/MatchGame.9ad12f353df65301f20f.png",
+    "static/media/EmojiGame.png": "/SathyaPortfolio/static/media/EmojiGame.17e1f3ce0f7dda08ed2a.png",
+    "static/media/nxtTrendz.png": "/SathyaPortfolio/static/media/nxtTrendz.26aa19505f6cb7a3f27c.png",
+    "static/media/CharaterCount.png": "/SathyaPortfolio/static/media/CharaterCount.6f1e27947713f62a0662.png",
+    "static/media/todo.png": "/SathyaPortfolio/static/media/todo.5639bbdd7ec91b2feb03.png",
+    "static/media/headline-shapes.svg": "/SathyaPortfolio/static/media/headline-shapes.4e139ce89ac0a8112fe147147591c3ef.svg",
+    "static/media/contact-shapes.svg": "/SathyaPortfolio/static/media/contact-shapes.e170950d741461ccf60a0cc8643b87af.svg",
+    "index.html": "/SathyaPortfolio/index.html",
+    "static/media/logo.svg": "/SathyaPortfolio/static/media/logo.4dbb99a8dee86f0fe78244fb41980402.svg",
+    "main.16e4af0e.css.map": "/SathyaPortfolio/static/css/main.16e4af0e.css.map",
+    "main.f0f8b4c4.js.map": "/SathyaPortfolio/static/js/main.f0f8b4c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16e4af0e.css",
+    "static/js/main.f0f8b4c4.js"
+  ]
+}
