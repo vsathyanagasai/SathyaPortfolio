@@ -5,10 +5,12 @@ import Welcome from './components/welcome';
 import Projects from './components/projects';
 import About from './components/about';
 import Contact from './components/contact';
+import { GlobalStyle } from './GlobalStyle';
 
 function App() {
   return (
     <Container className="bg-bodyBackground">
+      <GlobalStyle />
       <Navbar />
       <Welcome />
       <Projects />
