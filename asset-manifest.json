@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SathyaPortfolio/static/css/main.16e4af0e.css",
-    "main.js": "/SathyaPortfolio/static/js/main.f0f8b4c4.js",
+    "main.js": "/SathyaPortfolio/static/js/main.9c1929ab.js",
     "static/media/foodmuch.png": "/SathyaPortfolio/static/media/foodmuch.a0a823017c3743e005f7.png",
     "static/media/MatchGame.png": "/SathyaPortfolio/static/media/MatchGame.9ad12f353df65301f20f.png",
     "static/media/EmojiGame.png": "/SathyaPortfolio/static/media/EmojiGame.17e1f3ce0f7dda08ed2a.png",
@@ -13,10 +13,10 @@
     "index.html": "/SathyaPortfolio/index.html",
     "static/media/logo.svg": "/SathyaPortfolio/static/media/logo.4dbb99a8dee86f0fe78244fb41980402.svg",
     "main.16e4af0e.css.map": "/SathyaPortfolio/static/css/main.16e4af0e.css.map",
-    "main.f0f8b4c4.js.map": "/SathyaPortfolio/static/js/main.f0f8b4c4.js.map"
+    "main.9c1929ab.js.map": "/SathyaPortfolio/static/js/main.9c1929ab.js.map"
   },
   "entrypoints": [
     "static/css/main.16e4af0e.css",
-    "static/js/main.f0f8b4c4.js"
+    "static/js/main.9c1929ab.js"
   ]
 }
