@@ -5,7 +5,7 @@ import Welcome from './components/welcome';
 import Projects from './components/projects';
 import About from './components/about';
 import Contact from './components/contact';
-import { GlobalStyle } from './GlobalStyle';
+import GlobalStyle from './GlobalStyle';
 
 function App() {
   return (
@@ -23,5 +23,5 @@ function App() {
 export default App;
 
 const Container = styled.div`
-font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
 `;

@@ -12,7 +12,7 @@ const Welcome = () => (
     </h1>
     <p className="text-lg text-left py-4">
       I’m a software developer with a passion for creating digital experiences.
-      I’m currently working as an Engineer at Tata Consultancy Services (TCS) and I
+      I worked as a Programmer at Tata Consultancy Services (TCS) and I
       specialize in web development and software engineering. Explore my work, and
       let’s bring your projects to life.
       Got a coding project in mind? Let’s chat! 🚀
